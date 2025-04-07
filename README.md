@@ -1,26 +1,26 @@
 # 📝 Task Organizer
 
-Aplicação de lista de tarefas com JavaScript puro + LocalStorage + Design Responsivo.
+A simple task list application built with vanilla JavaScript, LocalStorage and responsive design.
 
-## Funcionalidades
-- Adicionar tarefas
-- Marcar como concluídas
-- Editar tarefa existente
-- Excluir tarefas
-- Armazenamento local (LocalStorage)
+## Features
+- Add new tasks
+- Mark tasks as completed
+- Edit existing tasks
+- Delete tasks
+- Persistent storage using LocalStorage
 
-## Tecnologias
+## Technologies
 - HTML
 - CSS
 - JavaScript
 
 ## Screenshots
-(Adicione aqui uma imagem do projeto rodando)
+(Add a screenshot of the project running here)
 
-## Como usar
-1. Clone o repositório
-2. Abra `index.html` no navegador
+## How to Use
+1. Clone this repository
+2. Open the `index.html` file in your browser
 
 ---
 
-🚀 Projeto criado por Artur Wagner como parte do desafio de se tornar um Full-Stack Developer.
+🚀 Project created by Artur Wagner as part of his journey to become a Full-Stack Developer.
